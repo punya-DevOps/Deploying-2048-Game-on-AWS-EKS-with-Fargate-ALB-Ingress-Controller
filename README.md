@@ -1,10 +1,12 @@
 # 🎮 Deploying 2048 Game on AWS EKS with Fargate & ALB Ingress Controller
 
-[![AWS](https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/eks/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Fargate](https://img.shields.io/badge/AWS-Fargate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/fargate/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-VM-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+<img width="1920" height="1022" alt="Screenshot 2026-06-04 110401" src="https://github.com/user-attachments/assets/8b18952f-290c-4e56-987e-628864ffb43b" />
+
+<img width="1920" height="1022" alt="Screenshot 2026-06-04 111133" src="https://github.com/user-attachments/assets/fcc8db1b-2391-4a49-ab5d-5c9e15a15e09" />
+
+<img width="1920" height="1022" alt="Screenshot 2026-06-04 111221" src="https://github.com/user-attachments/assets/a0fcfddd-4628-4e8c-b4fb-7ac557403957" />
+
+<img width="1920" height="1022" alt="Screenshot 2026-06-04 111323" src="https://github.com/user-attachments/assets/15ff463a-fe2c-4ec2-bf65-59951783ca5b" />
 
 ---
 
